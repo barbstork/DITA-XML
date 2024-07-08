@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>End-User Guide for JPS Calculator App</title>
+    <topichead navtitle="Sum Up">
+        <topicref href="how_to_sum_up_numbers.dita"/>
+    </topichead>
+    <topichead navtitle="Subtract">
+        <topicref href="what_is_subtract_of_numbers.dita"/>
+        <topicref href="how_to_subtract_numbers.dita"/>
+    </topichead>
+    <topichead navtitle="Multiply"/>
+    <topichead navtitle="Divide"/>
+</map>
